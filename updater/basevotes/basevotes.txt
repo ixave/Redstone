@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "21c9e0a"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/basevotes.smx"
+  }
+}

@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "55c2f05"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_round_engine.smx"
+  }
+}

@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "8deaeb9"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_kill_bots.smx"
+  }
+}

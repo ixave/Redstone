@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "ab3e2ae"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_suicide_controls.smx"
+  }
+}

@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "0b1de4b"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_commander_deprioritization.smx"
+  }
+}

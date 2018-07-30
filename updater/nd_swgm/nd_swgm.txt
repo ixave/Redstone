@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "5863379"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_swgm.smx"
+  }
+}

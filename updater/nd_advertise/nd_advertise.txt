@@ -1,0 +1,11 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "9a1c53a"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_advertise.smx"
+    "Plugin" "Path_SM/translations/nd_advertise.phrases.txt"
+  }
+}
